@@ -26,4 +26,12 @@ bin/
 .vscode/
 
 ### Mac OS ###
+
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+
 .DS_Store
