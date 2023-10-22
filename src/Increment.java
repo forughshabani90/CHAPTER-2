@@ -5,8 +5,8 @@ public class Increment {
         int n2 = n1++;
         System.out.println(n1);
         System.out.println(n2);
-        n1=6;
-        n2=++n1;
+        n1 = 6;
+        n2 = ++n1;
         System.out.println(n1);
         System.out.println(n2);
 
